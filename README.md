@@ -1,2 +1,2 @@
-# CPCN
-This is the source code for 'Coupled Prototype Contrastive Networks for Unsupervised Image Hashing'
+# RCSH
+This is the source code for 'Relational Consistency Induced Self-supervised Hashing for Image Retrieval'
